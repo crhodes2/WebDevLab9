@@ -1,0 +1,162 @@
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\ApplicationInsights.config
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Week5_WebApp1.dll.config
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Week5_WebApp1.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Week5_WebApp1.pdb
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Antlr3.Runtime.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\EntityFramework.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\EntityFramework.SqlServer.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\log4net.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.Web.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Newtonsoft.Json.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\SimpleInjector.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\SimpleInjector.Integration.Web.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Helpers.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Mvc.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Optimization.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Razor.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.WebPages.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.WebPages.Razor.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\WebGrease.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\EntityFramework.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\EntityFramework.SqlServer.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\log4net.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\SimpleInjector.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\SimpleInjector.Integration.Web.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Helpers.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Mvc.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Optimization.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.Razor.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.WebPages.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\System.Web.WebPages.Razor.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Antlr3.Runtime.pdb
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Newtonsoft.Json.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\bin\Microsoft.AI.Web.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\obj\Debug\WebDevLab9.csprojResolveAssemblyReference.cache
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\obj\Debug\WebDevLab9.csproj.CoreCompileInputs.cache
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\obj\Debug\Week5_WebApp1.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\Week5_WebApp1\Week5_WebApp1\obj\Debug\Week5_WebApp1.pdb
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\ApplicationInsights.config
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Week5_WebApp1.dll.config
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Week5_WebApp1.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Week5_WebApp1.pdb
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Antlr3.Runtime.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.SqlServer.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\log4net.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.Web.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.ApplicationInsights.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Newtonsoft.Json.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Helpers.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Mvc.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Optimization.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Razor.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Razor.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\WebGrease.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.SqlServer.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\log4net.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Helpers.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Mvc.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Optimization.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Razor.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Razor.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Antlr3.Runtime.pdb
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Newtonsoft.Json.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.ApplicationInsights.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.Web.xml
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\WebDevLab9.csprojResolveAssemblyReference.cache
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\WebDevLab9.csproj.CoreCompileInputs.cache
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\Week5_WebApp1.dll
+C:\Users\miiwo\OneDrive\COLLEGE COURSES\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\Week5_WebApp1.pdb
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\ApplicationInsights.config
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Week5_WebApp1.dll.config
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Week5_WebApp1.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Week5_WebApp1.pdb
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Antlr3.Runtime.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.SqlServer.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\log4net.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.Web.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.ApplicationInsights.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Newtonsoft.Json.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Helpers.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Mvc.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Optimization.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Razor.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Deployment.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Razor.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\WebGrease.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\EntityFramework.SqlServer.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\log4net.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Helpers.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Mvc.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Optimization.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.Razor.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Deployment.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\System.Web.WebPages.Razor.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Antlr3.Runtime.pdb
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Newtonsoft.Json.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.ApplicationInsights.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\bin\Microsoft.AI.Web.xml
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\WebDevLab9.csproj.CoreCompileInputs.cache
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\Week5_WebApp1.dll
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\Week5_WebApp1.pdb
+C:\Users\christian.rhodes\Downloads\Week9Lab\WebDevLab9\WebDevLab9\obj\Debug\WebDevLab9.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+DEBUG 2018-03-16 20:52:06,887 59168ms PetController          List               - Getting list of pets for user: 1
+INFO  2018-03-16 20:52:21,637 73918ms PetController          Create             - Creating pet
+DEBUG 2018-03-16 20:52:21,822 74103ms PetController          List               - Getting list of pets for user: 1
+DEBUG 2018-03-16 20:52:27,745 80026ms PetController          List               - Getting list of pets for user: 1
+DEBUG 2018-03-16 20:52:31,042 83323ms PetController          List               - Getting list of pets for user: 1
+DEBUG 2018-03-17 12:32:57,189 81694ms PokemonController      List               - Getting list of Pokemons for user: 1
+INFO  2018-03-17 12:33:15,489 99994ms PokemonController      Create             - Creating Pokemon
+DEBUG 2018-03-17 12:33:15,535 100040ms PokemonController      List               - Getting list of Pokemons for user: 1
+DEBUG 2018-03-17 12:49:30,445  8979ms PokemonController      List               - Getting list of Pokemons for user: 1
+DEBUG 2018-03-17 13:30:47,826   251ms PokemonController      List               - Getting list of Pokemons for user: 1
